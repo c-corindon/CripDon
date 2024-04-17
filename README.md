@@ -1,27 +1,26 @@
 # FS Ransomware Demonstrator
 
-## Descrição
-Este projeto é uma demonstração educacional de um ransomware escrito em Python. Ele foi desenvolvido para fins de aprendizado e compreensão dos mecanismos básicos que um ransomware pode utilizar. **Este software é apenas para uso em ambientes controlados e não deve ser usado para atividades ilegais.**
+## Description
+This project is an educational demonstration of ransomware written in Python. It was developed for the purpose of learning and understanding the basic mechanisms that ransomware can utilize. **This software is only for use in controlled environments and should not be used for illegal activities.**
 
-## Características
-- **Criptografia Robusta**: Implementa 3 algoritmos de criptografia estáveis. Sem a chave correta, os arquivos criptografados não podem ser decifrados.
-- **Extensão de Arquivo Personalizada**: Adiciona a extensão `.FS` a todos os arquivos criptografados.
-- **Seleção Inteligente de Arquivos**: Criptografa todos os arquivos, exceto aqueles que podem danificar o sistema, como `.htaccess`.
-- **Mensagens Personalizadas**: Permite aos usuários escreverem uma mensagem personalizada que será exibida na tela de ransom.
-- **Backdoor**: Gera um backdoor e o insere em todos os arquivos com extensão `.php` e `.html`.
-- **Shell da Web**: Carrega um shell da web para controle remoto.
-- **Criptografador Python com Coleta de Dados**: Gera um criptografador que coleta informações sobre o dispositivo infectado e executa comandos via PowerShell.
-- **Deface de Página Principal**: Substitui a página principal do site por uma definida pelo operador do ransomware.
+## Features
+- **Robust Encryption**: Implements 3 stable encryption algorithms. Without the correct key, the encrypted files cannot be decrypted.
+- **Custom File Extension**: Adds the `.FS` extension to all encrypted files.
+- **Intelligent File Selection**: Encrypts all files except those that can damage the system, such as `.htaccess`.
+- **Custom Messages**: Allows users to write a personalized message that will be displayed on the ransom screen.
+- **Backdoor**: Generates a backdoor and inserts it into all files with `.php` and `.html` extensions.
+- **Web Shell**: Loads a web shell for remote control.
+- **Python Encryptor with Data Collection**: Generates an encryptor that collects information about the infected device and executes commands via PowerShell.
+- **Deface Main Page**: Replaces the main page of the website with one defined by the ransomware operator.
 
-## Aviso Legal
-Este projeto é um demonstrador e está em desenvolvimento. Ele é fornecido "como está", sem garantias de qualquer tipo, e não é uma ferramenta maliciosa. O uso deste software é estritamente para fins educacionais e deve ser utilizado apenas em ambientes de teste.
+## Legal Disclaimer
+This project is a demonstrator and is under development. It is provided "as is," without any kind of warranty, and it is not a malicious tool. The use of this software is strictly for educational purposes and should be used only in test environments.
 
-## Como Usar
-Jaja faço essa parte kkkk
+## How to Use
+I'll do this part soon haha
 
-## Contribuições
-Contribuições são bem-vindas, especialmente aquelas que melhoram a segurança e eficácia do demonstrador para fins educacionais. Por favor, faça um fork do repositório e submeta um pull request com suas modificações.
+## Contributions
+Contributions are welcome, especially those that improve the security and effectiveness of the demonstrator for educational purposes. Please fork the repository and submit a pull request with your modifications.
 
-## Contato
-Esta é uma versão de teste do criptografador. Se ele infectou seus arquivos, entre em contato comigo: https://www.linkedin.com/company/corindon-ruby & https://github.com/Coridon-ruby
-
+## Contact
+This is a test version of the encryptor. If it has infected your files, please contact me at: https://www.linkedin.com/company/corindon-ruby & https://github.com/Coridon-ruby
