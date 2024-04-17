@@ -16,9 +16,6 @@ This project is an educational demonstration of ransomware written in Python. It
 ## Legal Disclaimer
 This project is a demonstrator and is under development. It is provided "as is," without any kind of warranty, and it is not a malicious tool. The use of this software is strictly for educational purposes and should be used only in test environments.
 
-## How to Use
-I'll do this part soon haha
-
 ## Contributions
 Contributions are welcome, especially those that improve the security and effectiveness of the demonstrator for educational purposes. Please fork the repository and submit a pull request with your modifications.
 
